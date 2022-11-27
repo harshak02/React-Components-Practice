@@ -1,0 +1,4 @@
+/* we can use the extrenal css for constant factors or static things */
+.heading {
+  border: 5px solid black;
+}
